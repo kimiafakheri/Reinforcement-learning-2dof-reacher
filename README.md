@@ -20,3 +20,9 @@ This project investigates classical control and reinforcement learning approache
 - Ablation studies
 
 ## Results
+
+### Reaching Demonstration
+
+The following video demonstrates the learned policy performing the 2-DOF robotic reaching task:
+
+[View demonstration video](results/videos/reacher_demo.mp4)
